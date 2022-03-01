@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T06:01:47.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_vvIsO7CK_QClVnTXXWr" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T06:02:43.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GzlIqTI7IhCPf9HzR2Us" version="16.6.4" type="github">
   <diagram id="S5lS7qCp8pHHB8eUPXlY" name="Page-1">
-    <mxGraphModel dx="1896" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,16 +28,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-4" value="存在报警配置？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-4" value="存在报警配置？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="260" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-6" target="x87ZyqORKGsU9ZAExPM6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-6" value="选择所需报警类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-6" value="选择所需报警类型" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-10" value="添加报警配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-10" value="添加报警配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="354" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-17" target="x87ZyqORKGsU9ZAExPM6-20">
@@ -51,7 +51,7 @@
         <mxCell id="x87ZyqORKGsU9ZAExPM6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-17" target="x87ZyqORKGsU9ZAExPM6-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-17" value="存在报警相关通知？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-17" value="存在报警相关通知？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="400" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-20" target="x87ZyqORKGsU9ZAExPM6-47">
@@ -72,7 +72,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-20" value="报警相关通知来自上级部门？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-20" value="报警相关通知来自上级部门？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="103.75" y="540" width="192.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-31" target="x87ZyqORKGsU9ZAExPM6-33">
@@ -91,28 +91,28 @@
             <mxPoint y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-31" value="应用相关报警通知配置？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-31" value="应用相关报警通知配置？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="340" y="540" width="192.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-33" value="添加本部门联系人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-33" value="添加本部门联系人" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="580" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-37" target="x87ZyqORKGsU9ZAExPM6-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-37" value="创建新通知配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-37" value="创建新通知配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-43" value="添加本部门联系人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-43" value="添加本部门联系人" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-47" value="修改报警通知配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-47" value="修改报警通知配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="140" y="710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x87ZyqORKGsU9ZAExPM6-50" target="x87ZyqORKGsU9ZAExPM6-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-50" value="创建新通知配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-50" value="创建新通知配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x87ZyqORKGsU9ZAExPM6-52" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
@@ -120,7 +120,7 @@
             <mxPoint x="-16" y="130" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x87ZyqORKGsU9ZAExPM6-54" value="添加本部门联系人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x87ZyqORKGsU9ZAExPM6-54" value="添加本部门联系人" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="580" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
