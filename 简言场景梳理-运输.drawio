@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T08:08:54.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QVTYbU-HBjoxfW-_GaP8" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T08:11:15.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="o5N6By46Zd2IIR4KDbw6" version="16.6.5" type="github">
   <diagram id="6WamHJM3YX5ozM1lHUuu" name="Page-1">
-    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-23" value="工厂&lt;br&gt;（Ex:富士康）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jKYQgYoo8GoiLYSZHEF5-24" target="jKYQgYoo8GoiLYSZHEF5-25">
           <mxGeometry relative="1" as="geometry" />
@@ -81,19 +81,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-24" value="保税区" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="720" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jKYQgYoo8GoiLYSZHEF5-25" target="jKYQgYoo8GoiLYSZHEF5-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-25" value="SFDsc仓库" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jKYQgYoo8GoiLYSZHEF5-31" target="jKYQgYoo8GoiLYSZHEF5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jKYQgYoo8GoiLYSZHEF5-31" value="经销商仓库" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="590" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
