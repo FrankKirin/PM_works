@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T06:29:40.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Ui1ARRgXlTMco3_6fjv9" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T06:31:40.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="JqBt7Y-Ym6iGCdke5v6e" version="17.0.0" type="github">
   <diagram id="UYQM8k9BAfUQGdm0cOYp" name="Page-1">
-    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bpB9PPHDUYLLvOCknQJ-1" value="更新运单状态为配送中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6P3vwFo2jP06o75oJyn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-1" target="P6P3vwFo2jP06o75oJyn-29">
           <mxGeometry relative="1" as="geometry" />
@@ -132,6 +132,22 @@
         </mxCell>
         <mxCell id="P6P3vwFo2jP06o75oJyn-3" value="运单中的最后一家门店？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1590" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-5" target="P6P3vwFo2jP06o75oJyn-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-34" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6P3vwFo2jP06o75oJyn-33">
+          <mxGeometry x="-0.4037" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-5" target="P6P3vwFo2jP06o75oJyn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6P3vwFo2jP06o75oJyn-36">
+          <mxGeometry x="-0.4027" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P6P3vwFo2jP06o75oJyn-5" value="正常结束？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1740" width="180" height="100" as="geometry" />
@@ -175,6 +191,18 @@
         </mxCell>
         <mxCell id="P6P3vwFo2jP06o75oJyn-29" value="司机点击到店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-32" value="运单正常结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-35" target="P6P3vwFo2jP06o75oJyn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-35" value="司机点击异常结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-40" value="运单异常结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
