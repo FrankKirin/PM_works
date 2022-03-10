@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T07:07:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tLWLYBoPz_E3kuUj9VPj" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T07:08:02.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="td6CY_OOL0PMlxhXWEsM" version="17.0.0" type="github">
   <diagram id="ezSY-wmksSdNFoscop0H" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,9 @@
         <mxCell id="oghAxSfRLu5-lUJlxqkl-12" value="所有检查项合格？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="650" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oghAxSfRLu5-lUJlxqkl-17" target="jXRGO0eoqpwSwtgL69Kq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oghAxSfRLu5-lUJlxqkl-17" value="出车检查合格" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,6 +72,9 @@
         </mxCell>
         <mxCell id="jXRGO0eoqpwSwtgL69Kq-4" value="修改出车检查项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-7" value="运单继续流转" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
