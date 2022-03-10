@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T02:46:38.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_oe8-_08tVoEMO50lGFk" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T06:29:40.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Ui1ARRgXlTMco3_6fjv9" version="17.0.0" type="github">
   <diagram id="UYQM8k9BAfUQGdm0cOYp" name="Page-1">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,26 +101,80 @@
         <mxCell id="9ukCY4lSf7fetdGuu3V2-33" value="仓库完成仓库检查" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-bpB9PPHDUYLLvOCknQJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ukCY4lSf7fetdGuu3V2-35" target="-bpB9PPHDUYLLvOCknQJ-1">
+        <mxCell id="-bpB9PPHDUYLLvOCknQJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9ukCY4lSf7fetdGuu3V2-35" target="-bpB9PPHDUYLLvOCknQJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ukCY4lSf7fetdGuu3V2-35" value="司机点击出车确认" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9ukCY4lSf7fetdGuu3V2-35" value="司机点击出车确认&lt;br&gt;(离开仓库)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-bpB9PPHDUYLLvOCknQJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bpB9PPHDUYLLvOCknQJ-1" target="-bpB9PPHDUYLLvOCknQJ-3">
+        <mxCell id="P6P3vwFo2jP06o75oJyn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bpB9PPHDUYLLvOCknQJ-1" target="P6P3vwFo2jP06o75oJyn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-bpB9PPHDUYLLvOCknQJ-1" value="更新运单状态为配送中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-bpB9PPHDUYLLvOCknQJ-1" value="更新运单状态为配送中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-bpB9PPHDUYLLvOCknQJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-bpB9PPHDUYLLvOCknQJ-3" target="-bpB9PPHDUYLLvOCknQJ-5">
+        <mxCell id="P6P3vwFo2jP06o75oJyn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-1" target="P6P3vwFo2jP06o75oJyn-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-bpB9PPHDUYLLvOCknQJ-3" value="司机完成对应门店配送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1290" width="120" height="60" as="geometry" />
+        <mxCell id="P6P3vwFo2jP06o75oJyn-1" value="司机到达门店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-bpB9PPHDUYLLvOCknQJ-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1380" width="60" height="60" as="geometry" />
+        <mxCell id="P6P3vwFo2jP06o75oJyn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-3" target="P6P3vwFo2jP06o75oJyn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6P3vwFo2jP06o75oJyn-6">
+          <mxGeometry x="-0.3135" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-13" target="P6P3vwFo2jP06o75oJyn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-3" value="运单中的最后一家门店？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1590" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-5" value="正常结束？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1740" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-10" value="司机点击离店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-3" target="P6P3vwFo2jP06o75oJyn-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1640" as="sourcePoint" />
+            <mxPoint x="440" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-15" target="P6P3vwFo2jP06o75oJyn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6P3vwFo2jP06o75oJyn-17">
+          <mxGeometry x="-0.3779" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-15" target="P6P3vwFo2jP06o75oJyn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6P3vwFo2jP06o75oJyn-20">
+          <mxGeometry x="-0.2923" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-15" value="进入门店围栏？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1450" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-19" value="提示：未进入门店签到范围，无法签到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6P3vwFo2jP06o75oJyn-29" target="P6P3vwFo2jP06o75oJyn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6P3vwFo2jP06o75oJyn-29" value="司机点击到店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
