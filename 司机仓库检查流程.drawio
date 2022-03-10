@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T06:49:51.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="cf7U0V4dp7KHT85uTbQa" version="17.0.0" type="github"><diagram id="ezSY-wmksSdNFoscop0H" name="Page-1">7Zlbb9sgFMc/DY+tbBPfHnEum6ZOmhZNWx9pTGJvJGSYNE4//cDGsR07iavm1qkvLRwOGDj/H7cA2J+nnzheRl9ZSCiwjDAFcAAsy3RcKP8pyya3+LCXG2Y8DrVTaRjHL0QbDW1dxSFJao6CMSriZd04YYsFmYiaDXPO1nW3KaP1ry7xjDQM4wmmTevPOBRRbvUst7R/JvEsKr5sOn5eMseFsx5JEuGQrSsmOASwzxkTeWqe9glVk1fMS15vtKd02zFOFqJLBTaLUDqefn9Y2Xf0xxea/v1D73QwErEpBkxCOX6dZVxEbMYWmA5La8DZahES1aohc6XPA2NLaTSl8TcRYqODiVeCSVMk5lSXkjQWv1T1e1vnHislg1S3nGU2OpP3U3Vu7/C1KWErPiEHxlzICPMZEQf84DZIUt2EzYngG1mPE4pF/FzvB9Yym239ykjIhA7GKwKj233GdKW/BIY2CPrAM1QCucALmrGjVHKhYrSOYkHGS5xNxFqiWY8ATpY5LNM4VZHUTT0TLkh6eIKbE7JlXQt9s5NfV7jRpqiCTGE7+RS670XbcoL5plJJZR+rZWW1LHcGJmBHJpxrMgFbmJAcWCDwFROeC4KgSCAw9EAwAMgBQwcgmHHjAH8EkK0SniRJ1vKBbwE0bCil1IF5nKZTwNOrw7OlogKPabXQ45yLHv+90HNCCpyOFHjXpMBp3RmQCVAufilyvxsFvqoVNAN9bfFD99riN83GpNyo+m9g7/A6UmMa7Sq4DDZeCzY9EHjAQ1miD5DRDRu55WQHMJXwlf+t8dNrOXldmB/4wU/3+4jRFSDrmgAV3Txy/JJHqxHwjYwpBFDzgnltOmy7J0N9ZT6ueu82K3SUrBzhw6zRUcJyAT6sjny89cKeVUWc403FYcnihUgqLX9ThlJe0KrLy/F3nmGO+EPT2JFT3oNSXNuhvEFvfuuhUXYVOa1KfMBPhO68GdB4tpDpiQwg4dKgqIwnmCJdMI/DMBcqSeIX/JS1p7Sgp1A2bgfAHhzCWj/j6cpg+3hW1c0BovYuAsa94fu1eb/TqnqdOspwFi5sOk2kKndXhFMErT00H5vomxYJ0z3FKtHA2jLqWLvuzt6Rd0zXOoNY2s638sjqATT6Twjf8/akm78z7i2vTrh584RbrUFTt4r8wpE/Uu2/uedruOdlPoa6xAxH6q/fjDmP2PxplVzmyAXt+p5ot1xI4CXfgk23dQM8ftlrTPCtHWfdM74Uymz5+1Qu+vJXPjj8Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T07:07:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tLWLYBoPz_E3kuUj9VPj" version="17.0.0" type="github">
+  <diagram id="ezSY-wmksSdNFoscop0H" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oghAxSfRLu5-lUJlxqkl-1" target="oghAxSfRLu5-lUJlxqkl-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oghAxSfRLu5-lUJlxqkl-3" target="oghAxSfRLu5-lUJlxqkl-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-3" value="点击出车检查按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oghAxSfRLu5-lUJlxqkl-6" target="oghAxSfRLu5-lUJlxqkl-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-6" value="填写出车检查项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oghAxSfRLu5-lUJlxqkl-8" target="oghAxSfRLu5-lUJlxqkl-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-8" value="上传出车检查照片" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oghAxSfRLu5-lUJlxqkl-10" target="oghAxSfRLu5-lUJlxqkl-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-10" value="点击提交" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oghAxSfRLu5-lUJlxqkl-12" target="oghAxSfRLu5-lUJlxqkl-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oghAxSfRLu5-lUJlxqkl-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.28" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oghAxSfRLu5-lUJlxqkl-12" target="jXRGO0eoqpwSwtgL69Kq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-3" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jXRGO0eoqpwSwtgL69Kq-2">
+          <mxGeometry x="-0.3053" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-12" value="所有检查项合格？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="135" y="650" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oghAxSfRLu5-lUJlxqkl-17" value="出车检查合格" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jXRGO0eoqpwSwtgL69Kq-1" target="jXRGO0eoqpwSwtgL69Kq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-1" value="点击出车检查按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXRGO0eoqpwSwtgL69Kq-4" target="oghAxSfRLu5-lUJlxqkl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXRGO0eoqpwSwtgL69Kq-4" value="修改出车检查项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
