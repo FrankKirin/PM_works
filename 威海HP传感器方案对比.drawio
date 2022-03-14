@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:27:47.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jQaWqbZdOV61IwEfrJar" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T09:29:05.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="VqrkB3YiaAwUxmoywLVI" version="17.1.2" type="github">
   <diagram id="IXUXQ47109v5t7RaDtWv" name="Page-1">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="430" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EETG0VnKmUu28fvg1394-1" value="自动释放集货位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="285" y="520" width="140" height="30" as="geometry" />
+          <mxGeometry x="285" y="530" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EETG0VnKmUu28fvg1394-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="EETG0VnKmUu28fvg1394-3" target="EETG0VnKmUu28fvg1394-5">
           <mxGeometry relative="1" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="EETG0VnKmUu28fvg1394-17" value="维护集货位信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="95" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EETG0VnKmUu28fvg1394-18" value="直接下发任务，根据当前出库集货位均匀下发任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="170" y="920" width="159" height="60" as="geometry" />
+        <mxCell id="EETG0VnKmUu28fvg1394-18" value="直接下发任务，根据当前出库集货位数量均匀下发任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="920" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EETG0VnKmUu28fvg1394-20" value="1.没有现成的同步集货位接口&lt;br&gt;2.RCS需要实现任务编排功能" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="360" width="220" height="30" as="geometry" />
