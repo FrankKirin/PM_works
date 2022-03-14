@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:21:33.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Tyca1WnD5_tofna3nd1l" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T09:27:47.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jQaWqbZdOV61IwEfrJar" version="17.1.2" type="github">
   <diagram id="IXUXQ47109v5t7RaDtWv" name="Page-1">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,6 +81,39 @@
         </mxCell>
         <mxCell id="EETG0VnKmUu28fvg1394-10" value="中控释放集货位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="169.5" y="780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="EETG0VnKmUu28fvg1394-13" target="EETG0VnKmUu28fvg1394-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-13" value="中控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="65" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;方案3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="920" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-16" value="RCS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="305" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-17" value="维护集货位信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-18" value="直接下发任务，根据当前出库集货位均匀下发任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="920" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-20" value="1.没有现成的同步集货位接口&lt;br&gt;2.RCS需要实现任务编排功能" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-21" value="中控会介入出库流程，根据空闲集货位个数下发出库任务。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-22" value="中控将任务不管集货位状态，将任务均匀发在当前出库集货位。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="930" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-23" value="维护集货位信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EETG0VnKmUu28fvg1394-24" value="自动释放集货位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
