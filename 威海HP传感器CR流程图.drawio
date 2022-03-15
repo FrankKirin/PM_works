@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:42:54.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1P5B6As-6ro4Gc57odBS" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T08:47:25.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lv0_RR3DhPPjuFJOA6Cr" version="17.1.2" type="github">
   <diagram id="cRzlzBvyMLGwdJzJPwRj" name="Page-1">
     <mxGraphModel dx="2064" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--66" value="手动释放集货位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="529" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
