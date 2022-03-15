@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:21:54.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LzXOJtic7sPkqZ-lGrS7" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T08:22:09.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="DJuNxQxZk30dN3g8gY9R" version="17.1.2" type="github">
   <diagram id="cRzlzBvyMLGwdJzJPwRj" name="Page-1">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--4" value="中控调度出库任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N3w-Lasd4Tz9Ui_GBEL--7" target="N3w-Lasd4Tz9Ui_GBEL--9">
           <mxGeometry relative="1" as="geometry">
@@ -28,13 +28,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--7" value="RCS回调出库任务完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N3w-Lasd4Tz9Ui_GBEL--9" target="N3w-Lasd4Tz9Ui_GBEL--53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--9" value="中控释放集货位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--13" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="690" width="80" height="80" as="geometry" />
@@ -108,8 +108,8 @@
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N3w-Lasd4Tz9Ui_GBEL--53" target="N3w-Lasd4Tz9Ui_GBEL--13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N3w-Lasd4Tz9Ui_GBEL--53" value="中控更新集货位状态为异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="N3w-Lasd4Tz9Ui_GBEL--53" value="中控更新集货位状态为空闲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="591" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
