@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T05:43:24.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eRhB9a8kmJoZFcryBEhm" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T05:44:13.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_Z3GW2gDpAJzur5IwB_T" version="17.1.3" type="github">
   <diagram id="cRzlzBvyMLGwdJzJPwRj" name="Page-1">
-    <mxGraphModel dx="2858" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--63" value="无法收到任务完成回调" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N3w-Lasd4Tz9Ui_GBEL--68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N3w-Lasd4Tz9Ui_GBEL--66" target="N3w-Lasd4Tz9Ui_GBEL--53" edge="1">
+        <mxCell id="1XdYHk9GoFmt2zoT3gbZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N3w-Lasd4Tz9Ui_GBEL--66" target="1XdYHk9GoFmt2zoT3gbZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--66" value="手动释放集货位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="N3w-Lasd4Tz9Ui_GBEL--69" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;（中控显示状态为搬运中&lt;br&gt;&amp;nbsp; &amp;nbsp; 实际已完成搬运）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="393.5" width="170" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="1XdYHk9GoFmt2zoT3gbZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1XdYHk9GoFmt2zoT3gbZ-1" target="N3w-Lasd4Tz9Ui_GBEL--53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1XdYHk9GoFmt2zoT3gbZ-1" value="关闭故障传感器对应的出库集货位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="599" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
