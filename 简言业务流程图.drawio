@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T08:56:26.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="kr5m_eo_vtgY5UpscEa4" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T09:14:14.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="w7mVlyfvMx2Bs_s1RJ3a" version="17.4.1" type="github">
   <diagram id="NN8UBgJH7iDtqIV_6qUX" name="Page-1">
     <mxGraphModel dx="652" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K40CPvtrrbEm8-m7OPcE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="K40CPvtrrbEm8-m7OPcE-1" target="K40CPvtrrbEm8-m7OPcE-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K40CPvtrrbEm8-m7OPcE-1" target="w5MSKAFBoHKy2U7gD9vj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K40CPvtrrbEm8-m7OPcE-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -22,8 +25,36 @@
         <mxCell id="K40CPvtrrbEm8-m7OPcE-4" value="简言Web端合并仓储/运输订单为Job" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K40CPvtrrbEm8-m7OPcE-6" value="为Job配置任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="K40CPvtrrbEm8-m7OPcE-6" value="为JOB配置任务与执行人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5MSKAFBoHKy2U7gD9vj-1" target="w5MSKAFBoHKy2U7gD9vj-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.9999999999999" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-1" value="手动创建JOB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5MSKAFBoHKy2U7gD9vj-5" target="w5MSKAFBoHKy2U7gD9vj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5MSKAFBoHKy2U7gD9vj-7">
+          <mxGeometry x="-0.0092" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-10" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w5MSKAFBoHKy2U7gD9vj-5" target="w5MSKAFBoHKy2U7gD9vj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-5" value="是否为周期性JOB？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-6" value="设置JOB周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5MSKAFBoHKy2U7gD9vj-9" value="设置JOB周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
