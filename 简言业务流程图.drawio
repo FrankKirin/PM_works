@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T03:07:02.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kMQMCPB_fDhg95Gz3_F8" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T03:16:52.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dWIghvrNCXL3qa5OkEQ-" version="17.4.6" type="github">
   <diagram id="NN8UBgJH7iDtqIV_6qUX" name="Page-1">
-    <mxGraphModel dx="946" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
             <mxPoint x="270" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K40CPvtrrbEm8-m7OPcE-6" value="生成JOB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="K40CPvtrrbEm8-m7OPcE-6" value="关联任务清单配置中的任务清单&lt;br&gt;（通过业务类型进行关联）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="420" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w5MSKAFBoHKy2U7gD9vj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="w5MSKAFBoHKy2U7gD9vj-1" target="w5MSKAFBoHKy2U7gD9vj-5" edge="1">
           <mxGeometry relative="1" as="geometry">
