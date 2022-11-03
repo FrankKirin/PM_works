@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T15:02:32.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DOWcgyNwDHc-kALr_OYU" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T15:03:18.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GDNP7K4PTQ_4jBhPJOXZ" version="20.2.5" type="github">
   <diagram id="wHfkOTOKG5deZro92lXi" name="第 1 页">
-    <mxGraphModel dx="1607" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="gDJo4SJLUXZ564vEYORO-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-5" target="gDJo4SJLUXZ564vEYORO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gDJo4SJLUXZ564vEYORO-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;N1 旁路由&lt;/font&gt;&lt;/b&gt;&lt;br&gt;旁路由IP:192.168.2.x(x为1~255)&lt;br&gt;DNS：主路由的地址" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="gDJo4SJLUXZ564vEYORO-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;N1 旁路由&lt;/font&gt;&lt;/b&gt;&lt;br&gt;旁路由IP:192.168.2.x(x为1~255)&lt;br&gt;网关地址：主路由LAN地址&lt;br&gt;DNS：114dns" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-500" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gDJo4SJLUXZ564vEYORO-13" value="手机" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
