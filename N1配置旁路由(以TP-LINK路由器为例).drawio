@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T14:43:49.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.2.5" etag="J424r3ETFhteFF4JTx0q" type="github"><diagram id="wHfkOTOKG5deZro92lXi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-03T15:02:07.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xnySf1dnY3QWirYZDxzY" version="20.2.5" type="github">
+  <diagram id="wHfkOTOKG5deZro92lXi" name="第 1 页">
+    <mxGraphModel dx="1418" dy="2017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gDJo4SJLUXZ564vEYORO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-1" target="gDJo4SJLUXZ564vEYORO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;光猫&lt;/font&gt;&lt;/b&gt;&lt;br&gt;192.168.1.1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-2" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-670" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-4" target="gDJo4SJLUXZ564vEYORO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-4" target="gDJo4SJLUXZ564vEYORO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-4" target="gDJo4SJLUXZ564vEYORO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-4" target="gDJo4SJLUXZ564vEYORO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TP-LINK路由器&lt;/font&gt;&lt;/b&gt;&lt;br&gt;LAN IP：192.168.2.1&lt;br&gt;DHCP: 开&lt;br&gt;网关地址:旁路由的IP&lt;br&gt;DNS:旁路由的IP&lt;br&gt;备用DNS:旁路由的IP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="gDJo4SJLUXZ564vEYORO-5" target="gDJo4SJLUXZ564vEYORO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;N1 旁路由&lt;/font&gt;&lt;/b&gt;&lt;br&gt;旁路由IP:192.168.2.x(x为1~255)&lt;br&gt;DNS：主路由的地址" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-13" value="手机" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-14" value="平板" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gDJo4SJLUXZ564vEYORO-15" value="其他" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-190" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
